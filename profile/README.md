@@ -1,25 +1,35 @@
 <div align="center">
 
-# Project Lancer X
+# 🚗 Project Lancer X
 
-**Professional Web Development Agency**
+**Coding My Way to My Dream Car**
 
-*Driven by passion. Fueled by code.*
-
-[![Website](https://img.shields.io/badge/Website-umutkilbizoglu.dev-purple?style=for-the-badge)](https://umutkilbizoglu.dev)
-[![Email](https://img.shields.io/badge/Email-projectlancerx@gmail.com-red?style=for-the-badge)](mailto:projectlancerx@gmail.com)
+[![Goal](https://img.shields.io/badge/Goal-Mitsubishi_Lancer_Evo-FF0000?style=for-the-badge&logo=mitsubishi&logoColor=white)](https://github.com/Project-Lancer-X)
+[![Progress](https://img.shields.io/badge/Progress-Just_Started-yellow?style=for-the-badge)](https://github.com/Project-Lancer-X)
 
 </div>
 
 ---
 
-## About Us
+## 🎯 The Mission
 
-We are a professional web development agency specializing in modern, scalable web applications. We transform ideas into powerful digital experiences.
+I'm a 23-year-old Full Stack Developer from Turkey, and I have one goal: **buy my dream car by doing what I love - coding.**
 
-> *"Every great journey starts with a single line of code."*
+This organization is my journey. Every project, every client, every line of code brings me closer to that Lancer.
 
-## What We Do
+## 📊 Progress Tracker
+
+| Milestone | Target | Status |
+|-----------|--------|--------|
+| First Client | ✅ | 🔄 In Progress |
+| $1,000 Earned | 💰 | ⏳ Pending |
+| $5,000 Earned | 💰 | ⏳ Pending |
+| $10,000 Earned | 💰 | ⏳ Pending |
+| **LANCER** | 🚗 | ⏳ The Dream |
+
+## 💼 What I Do
+
+I build modern, fast, and beautiful web applications.
 
 | Frontend | Backend | Mobile | Database |
 |----------|---------|--------|----------|
@@ -27,15 +37,7 @@ We are a professional web development agency specializing in modern, scalable we
 | Next.js | Express | Flutter | PostgreSQL |
 | Vue.js | REST APIs | | Firebase |
 
-## Our Services
-
-- **Custom Web Applications** - Tailored solutions for your business
-- **E-commerce Solutions** - Online stores that convert
-- **Portfolio & Business Websites** - Professional online presence
-- **SaaS Products** - Scalable software solutions
-- **Admin Dashboards** - Powerful management tools
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -48,15 +50,16 @@ We are a professional web development agency specializing in modern, scalable we
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## Contact Us
+## 🤝 Want to Help?
+
+The best way to support this journey is to **hire me** for your next project!
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-umutkilbizoglu.dev-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umutkilbizoglu.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:projectlancerx@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@projectlancerx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/projectlancerx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-umutkilbizoglu.dev-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umutkilbizoglu.dev)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/P2Bpamg)
-[![GitHub](https://img.shields.io/badge/GitHub-Project_Lancer_X-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Project-Lancer-X)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:projectlancerx@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Journey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/projectlancerx)
 
 </div>
 
@@ -64,10 +67,12 @@ We are a professional web development agency specializing in modern, scalable we
 
 <div align="center">
 
-*Building the web, one project at a time.*
+### 🏁 The Journey Has Begun
 
-**Let's accelerate your digital journey together!**
+*Every project is a mile closer to the dream.*
 
-🚀
+**#ProjectLancerX** **#CodingForMyCar** **#DreamCarChallenge**
+
+🚗💨
 
 </div>
