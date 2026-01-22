@@ -4,6 +4,8 @@
 
 **Professional Web Development Agency**
 
+*Driven by passion. Fueled by code.*
+
 [![Website](https://img.shields.io/badge/Website-umutkilbizoglu.dev-purple?style=for-the-badge)](https://umutkilbizoglu.dev)
 [![Email](https://img.shields.io/badge/Email-projectlancerx@gmail.com-red?style=for-the-badge)](mailto:projectlancerx@gmail.com)
 
@@ -14,6 +16,8 @@
 ## About Us
 
 We are a professional web development agency specializing in modern, scalable web applications. We transform ideas into powerful digital experiences.
+
+> *"Every great journey starts with a single line of code."*
 
 ## What We Do
 
@@ -62,6 +66,8 @@ We are a professional web development agency specializing in modern, scalable we
 
 *Building the web, one project at a time.*
 
-**Let's create something amazing together!**
+**Let's accelerate your digital journey together!**
+
+🚀
 
 </div>
